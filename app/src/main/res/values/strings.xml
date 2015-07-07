@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string name="activity_title">How many US Dollars do you have?</string>
+    <string name="list_view_title">Well, you could have...</string>
+    <string name="action_settings">Settings</string>
+    <string name="USD">US Dollars</string>
+    <string name="GBP">UK Pounds</string>
+    <string name="EUR">Euros</string>
+    <string name="JPY">Japanese Yen</string>
+    <string name="BRL">Brazilean Reals</string>
+</resources>
